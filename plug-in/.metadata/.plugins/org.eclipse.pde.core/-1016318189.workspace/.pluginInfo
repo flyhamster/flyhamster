@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<bundle bundleID="827" class="favorites.Activator" localization="OSGI-INF/l10n/bundle" name="Favorites" project="favorites"/>
+</map>
